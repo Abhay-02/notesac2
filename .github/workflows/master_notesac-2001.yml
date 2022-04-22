@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'notesac-2001'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9AC0EA2ABABE4879B93E8EA6C5546671 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BF825F481CA445E68D9723933B46F118 }}
